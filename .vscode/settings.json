@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "tsp.h": "c",
+        "graph.h": "c"
+    }
+}
